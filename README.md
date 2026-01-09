@@ -1,4 +1,4 @@
-I have deeveloped a Sign Language recognition system that uses a Convolutional Neural Network(CNN) trained on the Sign Language MNIST dataset.. 
+I have developed a Sign Language recognition system that uses a Convolutional Neural Network(CNN) trained on the Sign Language MNIST dataset.
 This system recgonizes real time American Sign Language hand gestures from both test images and live camera feed.
 
 I) OVERVIEW:
